@@ -1,6 +1,7 @@
 ---
 title: Billing
 tagline: Freely monetize your apps
+download_link: https://github.com/pavi2410/ai-extensions/raw/master/files/Billing.aix
 ---
 
 Hello, I am presenting you the extension for **_in-app purchases_**.
@@ -27,7 +28,7 @@ Hello, I am presenting you the extension for **_in-app purchases_**.
 
 ### ERROR CODES
 
-Learn about the _error codes_ that you may receive using **ErrorOccurred** event block. I've made a list of errors so you know what the does that all mean. Meaning of each error code has been written against that error code.
+Learn about the _error codes_ that you may receive using **ErrorOccurred** event block. I've made a list of error codes so you know what does that all mean. Meaning of each error code has been written against that error code.
 
 | Error Code | Meaning |
 | :---: | --- |
@@ -56,7 +57,7 @@ Some more error codes:
 | 112 | BILLING_ERROR_SKUDETAILS_FAILED |
 | 113 | BILLING_ERROR_BIND_PLAY_STORE_FAILED |
 
-_Found at https://goo.gl/q2QnR5_
+_Found at [https://goo.gl/q2QnR5](https://goo.gl/q2QnR5)_
 
 ----------
 
