@@ -1,8 +1,7 @@
 ---
 title: Root Checker
-layout: page
 tagline: Check root access and run shell commands
-comments: true
+download_link: https://github.com/pavi2410/ai-extensions/raw/master/files/RootChecker.aix
 ---
 
 I'm excited to release my second extension: _**Root Checker**_
@@ -22,15 +21,6 @@ This extension unlocks a variety of new things and it can prove to be very usefu
 <div align=center><img src="/uploads/default/original/2X/2/24f7e7cbb09ffef0a4a76741e49bf4f952908bc7.png" width="306" height="270"></div>
 
 **<div align=center>MORE FEATURES COMING SOON!</div>**
-
-
-----------
-
-**Download Extension**
-
-* Version 3: <a class="attachment" href="/uploads/default/original/2X/2/2b4d3d70d77f47eb933c5e9678b57598e1c2bc53.aix">RootChecker_v3.aix</a> (6.8 KB) (Changed the package name)
-
-* Version 2: <a class="attachment" href="/files/RootChecker.aix">RootChecker_v2.aix</a> (6.8 KB)
 
 ----------
 
