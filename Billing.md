@@ -1,8 +1,6 @@
 ---
 title: Billing
-layout: page
 tagline: Freely monetize your apps
-comments: true
 ---
 
 Hello, I am presenting you the extension for **_in-app purchases_**.
@@ -12,7 +10,7 @@ Hello, I am presenting you the extension for **_in-app purchases_**.
 ----------
 
 
-**INSTRUCTIONS**:
+### INSTRUCTIONS
 
 * Upload your apk to **Google Play** to alpha/beta/prod, and wait for your app to be published.
 
@@ -27,39 +25,41 @@ Hello, I am presenting you the extension for **_in-app purchases_**.
 
 ----------
 
-**ERROR CODES**
+### ERROR CODES
 
 Learn about the _error codes_ that you may receive using **ErrorOccurred** event block. I've made a list of errors so you know what the does that all mean. Meaning of each error code has been written against that error code.
 
-* 0 = BILLING_RESPONSE_RESULT_OK
-* 1 = BILLING_RESPONSE_RESULT_USER_CANCELED
-* 2 = BILLING_RESPONSE_RESULT_SERVICE_UNAVAILABLE
-* 3 = BILLING_RESPONSE_RESULT_BILLING_UNAVAILABLE
-* 4 = BILLING_RESPONSE_RESULT_ITEM_UNAVAILABLE
-* 5 = BILLING_RESPONSE_RESULT_DEVELOPER_ERROR
-* 6 = BILLING_RESPONSE_RESULT_ERROR
-* 7 = BILLING_RESPONSE_RESULT_ITEM_ALREADY_OWNED
-* 8 = BILLING_RESPONSE_RESULT_ITEM_NOT_OWNED
+| Error Code | Meaning |
+| :---: | --- |
+| 0 | BILLING_RESPONSE_RESULT_OK |
+| 1 | BILLING_RESPONSE_RESULT_USER_CANCELED |
+| 2 | BILLING_RESPONSE_RESULT_SERVICE_UNAVAILABLE |
+| 3 | BILLING_RESPONSE_RESULT_BILLING_UNAVAILABLE |
+| 4 | BILLING_RESPONSE_RESULT_ITEM_UNAVAILABLE |
+| 5 | BILLING_RESPONSE_RESULT_DEVELOPER_ERROR |
+| 6 | BILLING_RESPONSE_RESULT_ERROR |
+| 7 | BILLING_RESPONSE_RESULT_ITEM_ALREADY_OWNED |
+| 8 | BILLING_RESPONSE_RESULT_ITEM_NOT_OWNED |
 
 Some more error codes:
 
-* 100 = BILLING_ERROR_FAILED_LOAD_PURCHASES
-* 101 = BILLING_ERROR_FAILED_TO_INITIALIZE_PURCHASE
-* 102 = BILLING_ERROR_INVALID_SIGNATURE
-* 103 = BILLING_ERROR_LOST_CONTEXT
-* 104 = BILLING_ERROR_INVALID_MERCHANT_ID
-* 105 = BILLING_ERROR_INVALID_DEVELOPER_PAYLOAD
-* 110 = BILLING_ERROR_OTHER_ERROR
-* 111 = BILLING_ERROR_CONSUME_FAILED
-* 112 = BILLING_ERROR_SKUDETAILS_FAILED
-* 113 = BILLING_ERROR_BIND_PLAY_STORE_FAILED
+| Error Code | Meaning |
+| :---: | --- |
+| 100 | BILLING_ERROR_FAILED_LOAD_PURCHASES |
+| 101 | BILLING_ERROR_FAILED_TO_INITIALIZE_PURCHASE |
+| 102 | BILLING_ERROR_INVALID_SIGNATURE |
+| 103 | BILLING_ERROR_LOST_CONTEXT |
+| 104 | BILLING_ERROR_INVALID_MERCHANT_ID |
+| 105 | BILLING_ERROR_INVALID_DEVELOPER_PAYLOAD |
+| 110 | BILLING_ERROR_OTHER_ERROR |
+| 111 | BILLING_ERROR_CONSUME_FAILED |
+| 112 | BILLING_ERROR_SKUDETAILS_FAILED |
+| 113 | BILLING_ERROR_BIND_PLAY_STORE_FAILED |
 
 _Found at https://goo.gl/q2QnR5_
 
 ----------
 
-**Download Extension**:
-[![Download](https://img.shields.io/badge/DOWNLOAD-v7-brightgreen.svg)](https://github.com/pavi2410/pavi2410.github.io/blob/master/aix/files/Billing.aix?raw=true)
+### Demo
 
-----------
-**Test** this extension using this [app](https://play.google.com/apps/testing/com.thunkable.android.pavitragolchha.Billing).
+Test this extension using this [app](https://play.google.com/apps/testing/com.thunkable.android.pavitragolchha.Billing).
